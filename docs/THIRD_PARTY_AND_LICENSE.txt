@@ -1,0 +1,2 @@
+The authors' code is provided for review. No public reuse licence has yet been selected by its copyright holders.
+No third-party libraries are redistributed. Dependencies retain their licences. Optional archetypal geometry expects ParTIpy 0.2.0 and py-pcha sources, obtained separately. The synthetic demo does not regenerate geometry.

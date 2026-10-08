@@ -1,0 +1,19 @@
+{
+  "scope": "SYNTHETIC DEMO ONLY; not manuscript numerical reproduction",
+  "seed": 20261008,
+  "threads": 23,
+  "hospital_n": 900,
+  "survey_n": 1440,
+  "checks": {
+    "outcome_exclusions": true,
+    "disjoint_splits": true,
+    "oof_complete": true,
+    "validation_calibration": true,
+    "overall_range": true,
+    "corrected_weights": true,
+    "training_transforms_invariant_to_validation": true,
+    "predictions_ignore_validation_labels": true,
+    "finite_metrics": true
+  },
+  "all_passed": true
+}

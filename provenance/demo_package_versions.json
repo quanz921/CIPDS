@@ -1,0 +1,9 @@
+{
+  "data.table": "1.17.8",
+  "survey": "4.4-8",
+  "survival": "3.8-3",
+  "MASS": "7.3-65",
+  "catboost": "1.2.5",
+  "pROC": "1.18.5",
+  "jsonlite": "2.0.0"
+}

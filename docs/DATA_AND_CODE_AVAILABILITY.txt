@@ -1,0 +1,5 @@
+Replace the identical final sharing sentence in both Methods 2.11 and Data availability with:
+
+Analysis code and entirely synthetic demonstration data are available at https://github.com/quanz921/CIPDS. The synthetic data illustrate the computational workflow and do not reproduce the numerical results reported in this study. Individual-level hospital data and hospital-trained model objects are not publicly shared.
+
+Retain the preceding hospital restricted-access and CDC NHANES statements. No manuscript file is modified by this repository.

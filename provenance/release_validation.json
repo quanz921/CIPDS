@@ -1,0 +1,31 @@
+{
+  "scope": "synthetic demonstration and public-package boundary; no real study reproduction",
+  "negative_tests": [
+    {
+      "case": "blocked_binary",
+      "rejected_as_expected": true
+    },
+    {
+      "case": "blocked_credential",
+      "rejected_as_expected": true
+    },
+    {
+      "case": "synthetic_marker_required",
+      "rejected_as_expected": true
+    },
+    {
+      "case": "source_tamper",
+      "rejected_as_expected": true
+    },
+    {
+      "case": "restricted_workspace_inside_public_repo",
+      "rejected_as_expected": true
+    }
+  ],
+  "r_syntax_files": 34,
+  "demo_checks_passed": 9,
+  "real_patient_data_included": false,
+  "real_models_included": false,
+  "github_upload_performed_at_original_archive_creation": false,
+  "publication_preparation": "Public availability text; ignore Git metadata during QA; require LF line endings on every platform. Research computations unchanged."
+}

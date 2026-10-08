@@ -1,0 +1,359 @@
+[
+  {
+    "file": "analysis/reference/scripts/00_apply_verified_weights.R",
+    "origin": "cipds_weight_correct_20261007/scripts/00_apply_verified_weights.R",
+    "original_sha256": "c61e606d531b955ff989b36fdac745d8e87adfe28f170f09f199cbf14b119b05",
+    "published_sha256": "c61e606d531b955ff989b36fdac745d8e87adfe28f170f09f199cbf14b119b05",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/00_correct_nhanes_inputs.R",
+    "origin": "cipds_weight_correct_20261007/scripts/00_correct_nhanes_inputs.R",
+    "original_sha256": "ba74e12fe8635d91bcef6b1215170f7298fd9e4497413fac7847f322e3229dd1",
+    "published_sha256": "f12f564cb1cc19fa317af7aa9754cacf25fa965aa671b478108aed0a09c90599",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/00_freeze_cohorts.R",
+    "origin": "cipds_weight_correct_20261007/scripts/00_freeze_cohorts.R",
+    "original_sha256": "618db46cb2cf2d91789c1a5ef0bdc680186416bce60351e38c20fafe6270817c",
+    "published_sha256": "958030812d9eb5a369bc8c192218c42b00b68399268955fc00e07cf6aa5b94c7",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/01_build_hospital_reanalysis.py",
+    "origin": "cipds_weight_correct_20261007/scripts/01_build_hospital_reanalysis.py",
+    "original_sha256": "292ed6ff2487199a7afb73693baebf97bfb75ca3aa65f29d232b2e62f1dc1baa",
+    "published_sha256": "b5277cd56d28ca6ac65454d61e824ff4a3cc4457e2c7fc6a6065955301e8b5e4",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/05_audit_129_candidates.py",
+    "origin": "cipds_weight_correct_20261007/scripts/05_audit_129_candidates.py",
+    "original_sha256": "7e78899a6440814d3371bf88e7d196d2c8cda08d35fd22bcf68497ba38deaed5",
+    "published_sha256": "13590965e8441104fe9e961e3d9eb76e85c1465d754581d4eec3d5469e7cc506",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/06_nhanes_candidate_gate.R",
+    "origin": "cipds_weight_correct_20261007/scripts/06_nhanes_candidate_gate.R",
+    "original_sha256": "4bb42b3165c4cd146354e7600495bb1fa46f4ca36b5eee655724a134d9b4381f",
+    "published_sha256": "0a15970911f0e7865f118f0c84975c7ce50474ad35bd42bb82bd2c0098f2d511",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/07_nested_5x5_boruta_catboost.R",
+    "origin": "cipds_weight_correct_20261007/scripts/07_nested_5x5_boruta_catboost.R",
+    "original_sha256": "bf90ae45092551bf8c2828ca42ca19accf55072778e41d4feebb297031e818ee",
+    "published_sha256": "fb183a958cbb163c35752243b5ababe445d69c592365814911214204f388c8ba",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/08_validate_nested_outputs.py",
+    "origin": "cipds_weight_correct_20261007/scripts/08_validate_nested_outputs.py",
+    "original_sha256": "a3f736813667383d3499a9b17846c316b2e60548ac4e886c8042f0374f7f187f",
+    "published_sha256": "a3f736813667383d3499a9b17846c316b2e60548ac4e886c8042f0374f7f187f",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/09_compare_nested_scenarios.R",
+    "origin": "cipds_weight_correct_20261007/scripts/09_compare_nested_scenarios.R",
+    "original_sha256": "c6eb7905d9b43a2d9c4d7271ae0718eebe77d6aeae4ffe1b78ed59d9b8c46212",
+    "published_sha256": "08e1d9ffd00ef6cca53d0b7356805624ef8ba77c083ca5982721b52d8aa69ab9",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/10_score_nhanes_nested_survey.R",
+    "origin": "cipds_weight_correct_20261007/scripts/10_score_nhanes_nested_survey.R",
+    "original_sha256": "d1459427191d52d35fa541185d0369c7698e06b28523e42178c93886e0632df9",
+    "published_sha256": "e1bb056e4f055d0c39bb5084f4b5595203263a64c2c21c8a011edfef0c424b42",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/11_validate_nhanes_nested.py",
+    "origin": "cipds_weight_correct_20261007/scripts/11_validate_nhanes_nested.py",
+    "original_sha256": "bacffb62c4791d50d6cc26053c0e12607e1c5f3192955dc2d8fbf9213111695c",
+    "published_sha256": "e96b442638d340455c73f08a829e07c953356c86b2f3795bc7e29e49bf031f22",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/12_nhanes_older_adult_primary.R",
+    "origin": "cipds_weight_correct_20261007/scripts/12_nhanes_older_adult_primary.R",
+    "original_sha256": "df2d10f5959427b3b92dd48112a38985d4d6f698ffd7ae22f5cb91ca4305466e",
+    "published_sha256": "1b0f2be66bb20e69810b03c0bb4eeb6b206ebc1f4591ae301b9c3e2504d98991",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/13_validate_older_nhanes.py",
+    "origin": "cipds_weight_correct_20261007/scripts/13_validate_older_nhanes.py",
+    "original_sha256": "117300c7f5a01a590c966de80fd3fab1b3c36cf879804dea8f6afbb35be464b8",
+    "published_sha256": "3e7db58cb8603ec945898c142243dbdcdf2979217e7f8789754e3473ccc02e9a",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/14_train_overall_stacked_model.R",
+    "origin": "cipds_weight_correct_20261007/scripts/14_train_overall_stacked_model.R",
+    "original_sha256": "99dbefda0be0b269c9e060c20b32d81b9287994d7182cdc5f66396c24b3c07fe",
+    "published_sha256": "d1607f3e84d0803772fe7d435a3ecca89c2e3f811375ea702722c111c99eefe1",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/15_nhanes_overall_model_primary.R",
+    "origin": "cipds_weight_correct_20261007/scripts/15_nhanes_overall_model_primary.R",
+    "original_sha256": "647412264902cd040823dc6cfcece71712a8ddb1ed8c8fce17331d88859ebb0b",
+    "published_sha256": "0c96b761ed19b1483c5063718d16ef45a5b31dc85f18c5491543182dea1531ea",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/16_validate_overall_model.py",
+    "origin": "cipds_weight_correct_20261007/scripts/16_validate_overall_model.py",
+    "original_sha256": "1b727a45d3c87abead63dd81a077244a2faa76ca8292b028ac4090e61e25955c",
+    "published_sha256": "804e34d8fed447d23725fb6eb455403e207500c278f6605c6a54003c501f275f",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/19_nhanes_paired_discrimination.R",
+    "origin": "cipds_weight_correct_20261007/scripts/19_nhanes_paired_discrimination.R",
+    "original_sha256": "699ca14e5e14da10e61e8db9622e227160d890741578e0bce03bc7736375b4bd",
+    "published_sha256": "dd7626b408902685cf6071a981e3d48295d964de4d41ed51f56ee09340ef38b1",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/20_validate_paired_discrimination.py",
+    "origin": "cipds_weight_correct_20261007/scripts/20_validate_paired_discrimination.py",
+    "original_sha256": "3367a09f2a64b62d681b94c4cc77557b27093d87adaa8537780a7ae40daaeb27",
+    "published_sha256": "6d42a9b6e25e204dcaed9c55263981c93d70c0dfbe8203dd448003972c16a459",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/21_prepare_geometry_inputs.R",
+    "origin": "cipds_weight_correct_20261007/scripts/21_prepare_geometry_inputs.R",
+    "original_sha256": "1e494d6c1a7993f9d3e06c3918e542bd74f3364db745cd9de70b41ab5dbbf3ca",
+    "published_sha256": "8ecf61abf9f39393b7cb1596787749e84179e46715985d275a73fe9d3680098c",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/22_pareto_geometry_gate.py",
+    "origin": "cipds_weight_correct_20261007/scripts/22_pareto_geometry_gate.py",
+    "original_sha256": "91ee38495e0e91053da2c12d4086985e88782cb4026b65f6bf56d3308e326f56",
+    "published_sha256": "91ee38495e0e91053da2c12d4086985e88782cb4026b65f6bf56d3308e326f56",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/23_nhanes_geometry_surfaces.R",
+    "origin": "cipds_weight_correct_20261007/scripts/23_nhanes_geometry_surfaces.R",
+    "original_sha256": "b78ca458b455bcba9d08c6f21bee9d21ab2c6697ec57c158497a90bc258ecfaa",
+    "published_sha256": "90666d55b0b90a557fb7853db8a9ea6717c9e850da0456d0400f736e4d07da78",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/24_build_geometry_figure.py",
+    "origin": "cipds_weight_correct_20261007/scripts/24_build_geometry_figure.py",
+    "original_sha256": "a5df9b20169100ecf85e5f0e5c0587dbeaba9adf0754b0069271727ee17e274f",
+    "published_sha256": "5a78445041387cb911e38d78df0c5aa2b02012cae22e07b6a44c39bf96c1e25f",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/25_validate_geometry_release.py",
+    "origin": "cipds_weight_correct_20261007/scripts/25_validate_geometry_release.py",
+    "original_sha256": "f37c4e48ab2a20976458356bc6370947f83e911d49fee526831d895030aacdfb",
+    "published_sha256": "ea6f6d53955f715a73fe82a00fe95e3daefadbccd18911fb9d0ddb08e2fdedca",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/27_supplement_common.R",
+    "origin": "cipds_weight_correct_20261007/scripts/27_supplement_common.R",
+    "original_sha256": "a62a1d3690bead523a7e8ae46d968f02b179e4f708e074e77902e4604e51dbfe",
+    "published_sha256": "285ba9ab3056eb04ca74a673f8d8407bd2b708e17265bb5706a639348414ac64",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/28_selection_bias_ipw.R",
+    "origin": "cipds_weight_correct_20261007/scripts/28_selection_bias_ipw.R",
+    "original_sha256": "f76be6b1459a8ab2f48ef5cb5bd1cb70d7cfa6929d14e785ed941862bc56de14",
+    "published_sha256": "666296bfabb0f411286d0a39654c2efc054540c3a2f113140cc90ed0aadc17c6",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/29_ph_nonlinearity.R",
+    "origin": "cipds_weight_correct_20261007/scripts/29_ph_nonlinearity.R",
+    "original_sha256": "42226ca62d0dfc5ea0c30df1172b781050d9856fec3102d9adeb4cb97a8aeee1",
+    "published_sha256": "b012bbd412648fef305c1509327d84b071170c5f4060fee31a01dba5e39e2d75",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/30_incremental_prediction.R",
+    "origin": "cipds_weight_correct_20261007/scripts/30_incremental_prediction.R",
+    "original_sha256": "464566779b34407c3917b5742af494b71f3637eac090564e853bfe7d82f12078",
+    "published_sha256": "54a53647cb58337038a8e3a81e5cedfbf56b9973a8e6d5a4c509875b408ab902",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/31_cycle_stability.R",
+    "origin": "cipds_weight_correct_20261007/scripts/31_cycle_stability.R",
+    "original_sha256": "cfb99f3d40318bb4448ee8b4223ec0e0e421425871b31e748bc374b2677edbd2",
+    "published_sha256": "ea428a56b4268ecc9027e7e1e6fbe12afb380e09eaf79ff8afbc4e93f8136521",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/32_matched_target_fair_experiment.R",
+    "origin": "cipds_weight_correct_20261007/scripts/32_matched_target_fair_experiment.R",
+    "original_sha256": "4c8bb60af6f1e7b28ce33851cb03d737d43d9a194b079a90be741bd7d177237f",
+    "published_sha256": "8eaaf4be2bbf2c902c965d50aa2dbeb4a7d30d32f8cd855c73bef86f35f824c4",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/33_temporal_calibration.R",
+    "origin": "cipds_weight_correct_20261007/scripts/33_temporal_calibration.R",
+    "original_sha256": "e8abf878176ba8ccabe4fa42691a60af52ff41c332891460148ae8b6a1dc0756",
+    "published_sha256": "f7c11787c57c3781527a6b7d74556de7872952a2818c0525d90000dc29ca6e03",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/34_competing_risks.R",
+    "origin": "cipds_weight_correct_20261007/scripts/34_competing_risks.R",
+    "original_sha256": "aa95d636abf733a645c9c131558648e7b3836a5a5ff1f60fa1bbc48a24659729",
+    "published_sha256": "6a0ba6ccb7f04d1b65fe05bdd5051e2b0434ff6300985fdd85f763810d9b632d",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/35_validate_supplement_v2.py",
+    "origin": "cipds_weight_correct_20261007/scripts/35_validate_supplement_v2.py",
+    "original_sha256": "3d9566d2c489512ca6d18fe6a31998137e2ec22904ee05991ce63e6dda374e6d",
+    "published_sha256": "b03934d129dd874c42bfa7c06a54a4eafc41e29702d3056e5bc459e2b3f2226b",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/36_build_supplement_figures.py",
+    "origin": "cipds_weight_correct_20261007/scripts/36_build_supplement_figures.py",
+    "original_sha256": "df268ea27336254f253856adfd0e52bb499deda0956f4cd9371b026b49d848fc",
+    "published_sha256": "5ac62df0a88bf4d2891a9f4c4c71ae12e20890ed8b7167084b24755bb2199d7d",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/39_time_reverse_age_extension.R",
+    "origin": "cipds_weight_correct_20261007/scripts/39_time_reverse_age_extension.R",
+    "original_sha256": "755a4c8965a8d84d974a25472e3543c5022014af06e92623e22549b7c59a2987",
+    "published_sha256": "8ac6ebf62ec744673b55bdf9d2c26f4229cd34d307e7e6006649e2152980f77c",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/40_residual_fidelity_extension.R",
+    "origin": "cipds_weight_correct_20261007/scripts/40_residual_fidelity_extension.R",
+    "original_sha256": "ebf2f1bbf954c00887afb49cafbe668b57f06951451fac498bc46dc750845d4d",
+    "published_sha256": "fea07b53710c935fcc7c04d2e0b034a7ee5d2eb7d3196e633aaf395c487c4315",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/41_validate_supplement_v3.py",
+    "origin": "cipds_weight_correct_20261007/scripts/41_validate_supplement_v3.py",
+    "original_sha256": "3df38994d976fda636247293a37f2fa4829a198457a4152d416b38e10035df16",
+    "published_sha256": "e32943c539682bf5c18e9f4fcc985b18065b45c8bf09bca35c8c61b02a6fd884",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/44_build_main_table_data.R",
+    "origin": "cipds_weight_correct_20261007/scripts/44_build_main_table_data.R",
+    "original_sha256": "737e7e0139db02d4abe175aa98e87aec818ca27590e5f9661e88443d9c5e1339",
+    "published_sha256": "a5e35cd3bfbb82180424245edaa0f410b96054678541b5d64248f6cb9cf5b1bb",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/44_build_supplement_figures.py",
+    "origin": "cipds_weight_correct_20261007/scripts/44_build_supplement_figures.py",
+    "original_sha256": "79486c6ea56d4620cde0673c9448cc4a22e3e6924dd25514cfba2a74b8ad898d",
+    "published_sha256": "092d4ae1edbe3d203e4ffe87951d56744920448a4c4724f2dbd2396e774c4911",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/47_build_figure2_main_results.py",
+    "origin": "cipds_weight_correct_20261007/scripts/47_build_figure2_main_results.py",
+    "original_sha256": "35680c54941738f3c7a1c99416a21c63557a4d50ed228779eef3a4d59e32bbb2",
+    "published_sha256": "768d2178f4d24ee73f23152541445b7a36333f604fb24352220d98ed8c9ada61",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/48_build_figures3_5.py",
+    "origin": "cipds_weight_correct_20261007/scripts/48_build_figures3_5.py",
+    "original_sha256": "89c0429a1fb101e0fe6296b89b82b56344b7b16582f4842c2cfc000c01728fb0",
+    "published_sha256": "2e507cad695bf8c022926eb1b290640fdb30da4cd1161249aa12b18514dccbb1",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/60_harmonize_alcohol.R",
+    "origin": "cipds_weight_correct_20261007/scripts/60_harmonize_alcohol.R",
+    "original_sha256": "c1861312b32e003122e14eb82f8e880e0f5a1d8442dac21343bd9f1646475ebe",
+    "published_sha256": "c1861312b32e003122e14eb82f8e880e0f5a1d8442dac21343bd9f1646475ebe",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/61_first_day_sensitivity.R",
+    "origin": "cipds_weight_correct_20261007/scripts/61_first_day_sensitivity.R",
+    "original_sha256": "983581c1922cff4915d6e32bf2a33d4c9a5078b3207a3b3d114ab78070245444",
+    "published_sha256": "983581c1922cff4915d6e32bf2a33d4c9a5078b3207a3b3d114ab78070245444",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/61_prepare_first_day.py",
+    "origin": "cipds_weight_correct_20261007/scripts/61_prepare_first_day.py",
+    "original_sha256": "ad78c58cab8037864e290d171bb73def2563730a5035fa62cbd40761d041be3c",
+    "published_sha256": "bd1d1bd4f8a92b009fc1607c20c3ecf6f60ea860e0a89dd3a8c034922b0c43a2",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/reference/scripts/62_temporal_combination_increment.R",
+    "origin": "cipds_weight_correct_20261007/scripts/62_temporal_combination_increment.R",
+    "original_sha256": "92465cb61c96c5bdd1d915637970e2335a04dafd47fbead8d21f5a0878ee9c4b",
+    "published_sha256": "db787ac154ed949205155e61ee5452ac0cbe970ab5725ee3f394dc887849556d",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/weight_contract.R",
+    "origin": "cipds_weight_correct_20261007/scripts/weight_contract.R",
+    "original_sha256": "79baf9b062b6dd7be5b907a91c9d1df3f21a27fbdcafdc3fd2be697c573e584c",
+    "published_sha256": "aa5c13315f4d7f24c2264aaf991839b002532d6ce7b76b2240512ed7bde707ea",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/reference/scripts/weight_figure5_final.py",
+    "origin": "cipds_weight_correct_20261007/scripts/weight_figure5_final.py",
+    "original_sha256": "6054995b320dd8c0535fb0bdc1bf007751c3b904b86ae36687fd787dfb15ef3e",
+    "published_sha256": "8c178e46c2d47dd9a3a99f9326bf6f153e9e2577d46c66b2306537576c5fe262",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/sensitivity/scripts/90_missingness_firstday.R",
+    "origin": "cipds_sensitivity_20261007/scripts/90_missingness_firstday.R",
+    "original_sha256": "5fba1a9004ce89aa2dc71001963a30c5ce87165bc13f6c43a72735eb8d690ada",
+    "published_sha256": "5fba1a9004ce89aa2dc71001963a30c5ce87165bc13f6c43a72735eb8d690ada",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/sensitivity/scripts/91_nhanes_sensitivities.R",
+    "origin": "cipds_sensitivity_20261007/scripts/91_nhanes_sensitivities.R",
+    "original_sha256": "a453526a719b4f3bbccba54b2d6a6313a9d15825f5c26373f2c75dca2b0db873",
+    "published_sha256": "a453526a719b4f3bbccba54b2d6a6313a9d15825f5c26373f2c75dca2b0db873",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/sensitivity/scripts/92_validate_sensitivities.R",
+    "origin": "cipds_sensitivity_20261007/scripts/92_validate_sensitivities.R",
+    "original_sha256": "bcb63859770e98c2f748a59441f698f53c815513968ed6c37bf3d861d7e28aaa",
+    "published_sha256": "bcb63859770e98c2f748a59441f698f53c815513968ed6c37bf3d861d7e28aaa",
+    "edit": "None"
+  },
+  {
+    "file": "analysis/sensitivity/variants/no_mpv/scripts/07_nested_no_mpv.R",
+    "origin": "cipds_sensitivity_20261007/variants/no_mpv/scripts/07_nested_no_mpv.R",
+    "original_sha256": "471cc6abdf7b1875e4349b5d59ec67f55c25bbdef48e2c11273314fc978df11b",
+    "published_sha256": "9f4954c16c3409af2c8290fe012822cff675452e75584d702b2445a0c4a55cba",
+    "edit": "Local paths replaced; statistical code retained"
+  },
+  {
+    "file": "analysis/sensitivity/variants/no_mpv/scripts/14_train_overall_stacked_model.R",
+    "origin": "cipds_sensitivity_20261007/variants/no_mpv/scripts/14_train_overall_stacked_model.R",
+    "original_sha256": "99dbefda0be0b269c9e060c20b32d81b9287994d7182cdc5f66396c24b3c07fe",
+    "published_sha256": "d1607f3e84d0803772fe7d435a3ecca89c2e3f811375ea702722c111c99eefe1",
+    "edit": "Local paths replaced; statistical code retained"
+  }
+]
